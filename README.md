@@ -1,4 +1,4 @@
-
+<!-- 
 
 A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
@@ -192,4 +192,4 @@ Special thanks to:
    <img src="https://contrib.rocks/image?repo=sahilatahar/Code-Sync" />
 </a>
 
-
+ -->
